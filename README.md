@@ -1,1 +1,5 @@
-# arabic-ai-text-detection
+
+# Detection of AI-Generated Arabic Text: A Data Mining Approach
+
+Repository:
+arabic-ai-text-detection
