@@ -1,0 +1,6 @@
+name: arabic-ai-text-detection
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
